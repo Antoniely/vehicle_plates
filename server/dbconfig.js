@@ -10,6 +10,5 @@ const dbconfig = {
     rejectUnauthorized: false
   }
 };
-console.log(dbconfig)
 
 module.exports = dbconfig;
