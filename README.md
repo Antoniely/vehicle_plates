@@ -9,9 +9,9 @@ En este sistema quise utilizar PlanetScale para facilitar la prueba del mismo ya
 ## :hammer:Funcionalidades del proyecto
 
 - `Funcionalidad 1`: Obtener todos los registros de placas
-- `Funcionalidad 2`: Crea registro de placas
-- `Funcionalidad 2`: Actualiza cualquier registro de placa
-- `Funcionalidad 3`: Elimina cualquier registro de placas
+- `Funcionalidad 2`: Crear registro de placas
+- `Funcionalidad 2`: Actualizar cualquier registro de placa
+- `Funcionalidad 3`: Eliminar cualquier registro de placas
 
 ## :heavy_check_mark:Tecnologías utilizadas
 
@@ -29,7 +29,7 @@ En este sistema quise utilizar PlanetScale para facilitar la prueba del mismo ya
 
 ## :arrow_right: Pasos para levantar el servidor
 
-- Dirijase a la carpeta `server`
+- Diríjase a la carpeta `server`
 
 - Ejecute el comando
 
@@ -41,7 +41,7 @@ npm start
 
 ## :arrow_right: Pasos para levantar el client
 
-- Dirijase a la carpeta `client`
+- Diríjase a la carpeta `client`
 
 - Ejecute el comando
 
