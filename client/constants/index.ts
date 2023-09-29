@@ -1,0 +1,35 @@
+export const TYPE_OF_PLATE = [
+  "Automóvil- A",
+  "Automóvil- AA",
+  "Automóvil Interurbano Público- B",
+  "Automóvil Turístico- C",
+  "Autobús Público Urbano -D",
+  "Remolque- F",
+  "Jeep- G",
+  "Carga- L",
+  "Ambulancia- H",
+  "Autobús privado- I",
+  "Automóvil Público Urbano- T",
+  "Autobús Turístico- P",
+  "Máquinas pesadas - U",
+  "Montacargas – J",
+  "Autobús Público Interurbano – R",
+  "Volteo – S",
+  "Carro Fúnebre – M",
+  "Ejército Nacional - OE",
+  "Fuerza Aérea - OF",
+  "Marina de Guerra - OM",
+  "Policía Nacional - OP",
+  "Placas exoneradas estatales: EA, EG, EL, EM, ED, EI",
+  "Placas  consulares - VC",
+  "Placas diplomáticas - WD",
+  "Placas de organismos internacionales - OI",
+  "Placas exoneradas - EX, YX, Z, NZ",
+  "Placas de dealers - DD",
+  "Placas Provisionales - PP",
+  "Placas de motocicletas - K",
+];
+
+export const TYPE_OF_PEOPLE = ["Persona Física", "Persona Jurídica"];
+
+export const TYPE_OF_CAR = ["Público", "Privado", "Transporte", "Pesado"];
